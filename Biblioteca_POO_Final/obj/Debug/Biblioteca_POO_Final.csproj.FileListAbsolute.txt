@@ -1,0 +1,6 @@
+C:\Users\PC GAMER\Desktop\Ingeniería en Ciencia de Datos\Semestre 2\Programacón y diseño orientado a objetos\Proyecto final\Final_POO_Farmacia\Biblioteca_POO_Final\bin\Debug\Biblioteca_POO_Final.dll
+C:\Users\PC GAMER\Desktop\Ingeniería en Ciencia de Datos\Semestre 2\Programacón y diseño orientado a objetos\Proyecto final\Final_POO_Farmacia\Biblioteca_POO_Final\bin\Debug\Biblioteca_POO_Final.pdb
+C:\Users\PC GAMER\Desktop\Ingeniería en Ciencia de Datos\Semestre 2\Programacón y diseño orientado a objetos\Proyecto final\Final_POO_Farmacia\Biblioteca_POO_Final\obj\Debug\Biblioteca_POO_Final.csprojAssemblyReference.cache
+C:\Users\PC GAMER\Desktop\Ingeniería en Ciencia de Datos\Semestre 2\Programacón y diseño orientado a objetos\Proyecto final\Final_POO_Farmacia\Biblioteca_POO_Final\obj\Debug\Biblioteca_POO_Final.csproj.CoreCompileInputs.cache
+C:\Users\PC GAMER\Desktop\Ingeniería en Ciencia de Datos\Semestre 2\Programacón y diseño orientado a objetos\Proyecto final\Final_POO_Farmacia\Biblioteca_POO_Final\obj\Debug\Biblioteca_POO_Final.dll
+C:\Users\PC GAMER\Desktop\Ingeniería en Ciencia de Datos\Semestre 2\Programacón y diseño orientado a objetos\Proyecto final\Final_POO_Farmacia\Biblioteca_POO_Final\obj\Debug\Biblioteca_POO_Final.pdb
